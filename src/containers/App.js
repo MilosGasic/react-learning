@@ -100,7 +100,7 @@ persons = <Persons
 
 
 <div style={{
-          color:'red',
+          color:'green',
           fontSize:25
         }}>DRUGI TREXT</div>
 
