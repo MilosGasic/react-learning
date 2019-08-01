@@ -93,19 +93,6 @@ persons = <Persons
       
 
       <div>
-        <div style={{
-          color:'red'
-        }}> NEKITAMOTEKS</div>
-
-
-
-<div style={{
-          color:'green',
-          fontSize:25
-        }}>DRUGI TREXT</div>
-
-
-
         <button onClick={() => {this.setState({showCockpit:false});
       }}
       >
